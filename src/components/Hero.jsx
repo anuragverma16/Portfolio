@@ -107,7 +107,7 @@ const Hero = () => {
             className="w-full sm:w-auto px-6 sm:px-8 py-2.5 sm:py-3 border border-white/20 hover:bg-green-700 text-white font-light rounded-sm hover:border-white/40 hover:bg-white/5 transition-all duration-300 text-sm sm:text-base"
           >
             <a
-              href="public/Anurag Verma Resume 2026.pdf"
+              href="public/Anurag_Verma_Resume_2026.pdf"
               download="Anurag_Verma_Resume.pdf"
             >
               Download Resume

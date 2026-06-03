@@ -38,7 +38,7 @@ const Projects = () => {
         'A SaaS platform for developers to create and customize their portfolio websites with templates and themes.',
       tech: ['React.js', 'TypeScript', 'Motion'],
       github: 'https://github.com',
-      demo: 'https://demo.com',
+      demo: 'https://portfolio18-chi.vercel.app/',
       image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop',
       gradient: 'from-green-500 to-emerald-500',
       features: ['About', 'Skills', 'Projects'],
